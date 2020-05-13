@@ -1,0 +1,13 @@
+node_modules/*
+
+# Vs Code
+.vscode/*
+
+# Application Configuration
+.env
+.env.dev
+.env.qa
+.env.staging
+.env.production
+
+config.json
